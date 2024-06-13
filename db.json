@@ -1,0 +1,56 @@
+{
+    "users": [
+      {
+        "id": "7173",
+        "fullname": "Omar Ricardo",
+        "usuario": "Richo",
+        "email": "riki@gmail.com",
+        "password": "Password1*"
+      },
+      {
+        "id": "6824",
+        "fullname": "Omar Ricardo",
+        "usuario": "Ricardo7173",
+        "email": "riki0303@outlook.es",
+        "password": "Ricardo7173@"
+      }
+    ],
+    "products": [
+      {
+        "codigo": "7173",
+        "nombre": "Aguacate",
+        "descripcion": "Aguacate verde",
+        "precio": 20,
+        "imagen": "https://www.telemundo.com/sites/nbcutelemundo/files/styles/social_share_1024x768_scale/public/aguacate-partido_0.jpg?ramen_itok=iqwQftIcTf",
+        "categoria": "Fruta",
+        "cantidad": 0,
+        "estadoInventrario": "OUTOFSTOCK",
+        "rating": 3,
+        "id": "d880"
+      },
+      {
+        "codigo": "7016",
+        "nombre": "Mango",
+        "descripcion": "Unos mangasos",
+        "precio": 15,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mango_-_single.jpg/800px-Mango_-_single.jpg",
+        "categoria": "Fruta",
+        "cantidad": 25,
+        "estadoInventrario": "INSTOCK",
+        "rating": 3,
+        "id": "9e1e"
+      },
+      {
+        "codigo": "5611",
+        "nombre": "Fresa",
+        "descripcion": "Fresas fresquesillas",
+        "precio": 30,
+        "imagen": "https://blogagricultura.com/wp-content/uploads/2018/02/estadisticas-fresa.jpg",
+        "categoria": "Fruta",
+        "cantidad": 5,
+        "estadoInventrario": "LOWSTOCK",
+        "rating": 5,
+        "id": "9db5"
+      }
+    ]
+  }
